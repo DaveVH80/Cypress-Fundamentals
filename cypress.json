@@ -1,3 +1,5 @@
 {
-  "baseUrl": "http://localhost:1337"
+  "testFiles": "**/*.js",
+  "baseUrl": "http://localhost:1337",
+  "projectId": "o9kqft"
 }
